@@ -1,0 +1,6 @@
+C:\Code\TestSandbox\HelloWorld\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+C:\Code\TestSandbox\HelloWorld\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+C:\Code\TestSandbox\HelloWorld\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+C:\Code\TestSandbox\HelloWorld\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojResolveAssemblyReference.cache
+C:\Code\TestSandbox\HelloWorld\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\Code\TestSandbox\HelloWorld\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
